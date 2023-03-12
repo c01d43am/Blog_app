@@ -1,5 +1,4 @@
-# Blog-App-using-MERN-stack
-Blog App 
+# Blog App 
 
 # Functionalities 
 - Authentication 
